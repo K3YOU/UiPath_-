@@ -1,0 +1,23 @@
+<extract>
+	<column exact='1' name='Column1' attr='fulltext'>
+		<webctrl tag='li' />
+		<webctrl tag='a' idx='1' />
+		<webctrl tag='div' idx='1' />
+		<webctrl tag='div' idx='2' />
+		<webctrl tag='strong' />
+	</column>
+	<column exact='1' name='Column1' attr='fulltext'>
+		<webctrl tag='li' />
+		<webctrl tag='a' idx='1' />
+		<webctrl tag='div' idx='1' />
+		<webctrl tag='div' idx='1' />
+		<webctrl tag='span' />
+	</column>
+	<column exact='1' name='Column1' attr='fulltext'>
+		<webctrl tag='li' />
+		<webctrl tag='a' idx='1' />
+		<webctrl tag='div' idx='1' />
+		<webctrl tag='div' idx='2' />
+		<webctrl tag='span' />
+	</column>
+</extract>
